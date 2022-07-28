@@ -1,0 +1,2 @@
+link dataset: https://www.kaggle.com/datasets/manishkc06/startup-success-prediction
+link deployment: https://irham-dinan-ftds-p1m2-fend.herokuapp.com/
