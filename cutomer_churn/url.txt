@@ -1,0 +1,2 @@
+frontend = https://irham-dinan-ftds-p2m1-fend.herokuapp.com/
+backend = https://irham-dinan-ftds-p2m1-bend.herokuapp.com/
